@@ -1,7 +1,7 @@
 lelbot-printerstep
 ==================
 
-lelbot Stepper Driver, of a size appropriate for 3D printers.
+lelbot Stepper Driver Hardware, of a size appropriate for 3D printers.
 
 License
 =======
